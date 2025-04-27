@@ -1,0 +1,10 @@
+{
+  "name": "Plus Clock",
+  "description": "Add a standalone clock to your top bar.",
+  "shell-version": [
+    "43"
+  ],
+  "uuid": "plusclock@ams.f5.si",
+  "version": 1,
+  "github_url": "https://github.com/linux-jam/plusclock"
+}
